@@ -2,11 +2,15 @@
 
 ## Description
 
+An e-commerce React application using Redux to manage the global state within the application. As a user, you are able to review the way in which the React front end accesses the store, and see that the app uses a Redux provider.
+
 ## Link to deployed application
+
+https://frozen-lowlands-48332.herokuapp.com/
 
 ## Table of contents
 
-- [Budget Tracker](#budget-tracker)
+- [E-Commerce-Redux](#e-commerce-redux)
 
   - [Description](#description)
   - [Link to deployed application](#link-to-deployed-application)
