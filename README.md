@@ -42,6 +42,6 @@ https://github.com/SyreetaC
 
 ## Screenshots
 
-![screenshot1]()
-![screenshot2]()
-![screenshot3]()
+![screenshot1](</client/public/images/screenshots/Screenshot%20(51).png>)
+![screenshot2](</client/public/images/screenshots/Screenshot%20(52).png>)
+![screenshot3](</client/public/images/screenshots/Screenshot%20(53).png>)
